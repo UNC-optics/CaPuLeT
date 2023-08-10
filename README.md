@@ -11,3 +11,6 @@
 
 
 ![Basic Circuit (Actual Color)_bb (8_9_2023)](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/assets/135740829/442b6286-ca3d-4529-ac3e-d9e751978e69)
+
+
+[c) Custom Parts Specifications.pdf](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/files/12316804/c.Custom.Parts.Specifications.pdf)
