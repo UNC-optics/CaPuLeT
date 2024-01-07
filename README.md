@@ -1,5 +1,6 @@
-# Pupillometry-Wheel
+# An open-source system for pupillometric tracking in head-fixed mice
 
+Designed by members of the Rodriguez-Romaguera Lab at the University of North Carolina at Chapel Hill, this running wheel for head-fixed mice allows researchers to capture pupil dynamics and locomotion across time with two seperate cameras. This system is powered  
 
 ![Annotated Wheel](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/assets/135740829/743abb41-5518-4917-9bde-c7935521df62)
 
