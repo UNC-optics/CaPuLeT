@@ -7,6 +7,7 @@ Designed by members of the Rodriguez-Romaguera Lab at the University of North Ca
 - Monochrome Camera → Body Kinematics (Body and Tail Movement)
 - Rotary Encoder → Locotion (Speed and Acceleration)
 
+### **Custom Arduino Printed Circuit Board Shield**:
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with build in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 
