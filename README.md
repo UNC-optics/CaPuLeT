@@ -10,17 +10,22 @@ Designed by members of the Rodriguez-Romaguera Lab at the University of North Ca
 ### **Custom Arduino Printed Circuit Board Shield**:
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with build in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
+### **Required Software and Applications**:
+- MATLAB R2022a 
+- Arduino IDE 
+- SpinView 
+- DeepLabCuts
 
 
+# Commercially Avaliable and Custom Made Parts 
 
-![Annotated Wheel](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/assets/135740829/743abb41-5518-4917-9bde-c7935521df62)
+A
 
+# Step-by-Step Building Guide
 
-![Wheel Protocol Post Coordinates](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/assets/135740829/55f1cbfe-9d17-4efd-af8b-2df995eb98f9)
+A
 
+# Software Installation Guide and Dependencies
 
-![Wheel Protocol Post Coordinates (Extended)](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/assets/135740829/aff3a0a8-440d-4919-b445-9f0230324e19)
-
-
-![Basic Circuit (Actual Color)_bb (8_9_2023)](https://github.com/jovantormesvaquerano/Pupillometry-Wheel/assets/135740829/442b6286-ca3d-4529-ac3e-d9e751978e69)
+A
 
