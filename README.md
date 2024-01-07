@@ -5,7 +5,7 @@ Designed by members of the Rodriguez-Romaguera Lab at the University of North Ca
 
 Arduino Mega 2560 microcontroller board
 
-**Required Hardware**:
+**Behavioral Data Collected**:
 - IR Camera →
 - Monochrome Camera →
 - Rotary Encoder →
