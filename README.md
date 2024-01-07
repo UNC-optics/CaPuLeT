@@ -19,11 +19,11 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
-A
+[]
 
 # Step-by-Step Building Guide
 
-A
+[]
 
 # Software Installation Guide and Dependencies
 
