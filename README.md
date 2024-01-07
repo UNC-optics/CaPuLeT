@@ -1,14 +1,14 @@
 # An open-source system for pupillometric tracking in head-fixed mice
 
-Designed by members of the Rodriguez-Romaguera Lab at the University of North Carolina at Chapel Hill, this running wheel for head-fixed mice allows researchers to capture pupil dynamics, locomotion, and body kinematics aross time. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an aerial monochrome camera to record body kinematics. Additionally, we attached our wheel system to a mounted rotary encoder in order to measure the mouse's movement over the course of the experiment. 
+Designed by members of the Rodriguez-Romaguera Lab at the University of North Carolina at Chapel Hill, this running wheel for head-fixed mice allows researchers to capture pupil dynamics, body kinematics, and locomotion aross time. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an aerial monochrome camera to record body kinematics. Additionally, we attached our wheel system to a mounted rotary encoder in order to measure the mouse's movement over the course of the experiment. 
 
 
 Arduino Mega 2560 microcontroller board
 
-## **System Components Responsible **:
-- IR Camera →
-- Monochrome Camera →
-- Rotary Encoder →
+### **Behavioral Data Collected**:
+- IR Camera → Pupil Dynamics (Dilation and Constriction)
+- Monochrome Camera → Body Kinematics (Body and Tail Movement)
+- Rotary Encoder → Locotion (Speed and Acceleration)
 
 
 
