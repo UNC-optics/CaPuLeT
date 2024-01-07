@@ -5,7 +5,7 @@ Designed by members of the Rodriguez-Romaguera Lab at the University of North Ca
 
 Arduino Mega 2560 microcontroller board
 
-1. **Behavioral Data Collected**:
+### **System Components Responsible **:
 - IR Camera →
 - Monochrome Camera →
 - Rotary Encoder →
