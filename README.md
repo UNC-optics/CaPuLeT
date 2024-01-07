@@ -2,11 +2,15 @@
 
 Designed by members of the Rodriguez-Romaguera Lab at the University of North Carolina at Chapel Hill, this running wheel for head-fixed mice allows researchers to capture pupil dynamics and locomotion across time. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an aerial monochrome camera to record body kinematics. 
 
-. The first camera system is located  
-
-The second camera system 
 
 Arduino Mega 2560 microcontroller board
+
+Required Hardware:
+- Rotary Encoder
+- IR Camera
+- Monochrome Camera 
+- 104 Decibel Speaker
+- Arduino Mega 2560 Rev3
 
 
 
