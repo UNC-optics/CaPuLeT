@@ -21,7 +21,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 The complete component list which detials the manufacturer, part number, and quantity required can be found [here](1-Pupillometry-Components-Table.pdf).
 
-This [version](2-Color-Coded-Pupillometry Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
+This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
 
 The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) compiles the total cost of the system.  
 
