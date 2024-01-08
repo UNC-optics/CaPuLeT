@@ -35,12 +35,9 @@ Our system also requires custom-made parts either fabricated in-house or from th
 - Craftcloud3d (3-D Printing)
 - JBL PCB (PCB Printing / Soldering)
 
+The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
 
-The complete component list which detials the manufacturer, part number, and quantity required can be found [here](1-Pupillometry-Components-Table.pdf). This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
-
-
-4-Pupillometry-Wheel-Machined-Parts-Table.pdf
-
+This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. 
 
 The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) compiles the total cost of the system.  
 
