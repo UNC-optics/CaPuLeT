@@ -23,7 +23,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 
 This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](5-Pupillometry-Wheel-Custom-Parts-Specifications.pdf). The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
 
-Here is a list of the manufacturers we purchased materials from: 
+### Here is a list of the manufacturers we purchased materials from: 
 - McMaster-Carr
 - Pololu
 - Thorlabs
@@ -33,7 +33,7 @@ Here is a list of the manufacturers we purchased materials from:
 - FLIR
 - The Imaging Source
 
-Here is a list of companies you can purchase custom parts from, if not fabricated in-house:
+### Here is a list of companies you can purchase custom parts from, if not fabricated in-house:
 - eMachineShop (CNC Machining)
 - Ponoko (Laser Cutting)
 - Craftcloud3d (3-D Printing)
