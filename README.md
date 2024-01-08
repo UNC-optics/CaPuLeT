@@ -19,9 +19,28 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
-The complete component list which detials the manufacturer, part number, and quantity required can be found [here](1-Pupillometry-Components-Table.pdf).
+Here is a complete list of the manufacturers we purchased materials from: 
+- McMaster-Carr
+- Pololu
+- Thorlabs
+- SparkFun
+- Digikey
+- Amazon
+- FLIR
+- The Imaging Source
 
-This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
+Our system also requires custom-made parts either fabricated in-house or from the following companies:
+- eMachineShop (CNC Machining)
+- Ponoko (Laser Cutting)
+- Craftcloud3d (3-D Printing)
+- JBL PCB (PCB Printing / Soldering)
+
+
+The complete component list which detials the manufacturer, part number, and quantity required can be found [here](1-Pupillometry-Components-Table.pdf). This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
+
+
+4-Pupillometry-Wheel-Machined-Parts-Table.pdf
+
 
 The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) compiles the total cost of the system.  
 
