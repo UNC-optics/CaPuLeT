@@ -19,7 +19,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
-The complete component list, with quantities specified, can be found in the following [document](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/blob/f9c1e1aa8c3a750ae211f6c73015d03a640eeddb/a)%20Pupillometry%20Components%20Table.pdf).
+The complete component list, with quantities specified, can be found in the following [document](http://jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/a - Pupillometry Components Table.pdf).
 
 # Step-by-Step Building Guide
 
