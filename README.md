@@ -29,11 +29,13 @@ Here is a complete list of the manufacturers we purchased materials from:
 - FLIR
 - The Imaging Source
 
+
 Our system also requires custom-made parts either fabricated in-house or from the following companies:
 - eMachineShop (CNC Machining)
 - Ponoko (Laser Cutting)
 - Craftcloud3d (3-D Printing)
 - JBL PCB (PCB Printing / Soldering)
+
 
 The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
 
