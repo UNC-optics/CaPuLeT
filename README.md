@@ -19,6 +19,12 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
+The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
+
+This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](5-Pupillometry-Wheel-Custom-Parts-Specifications.pdf).
+
+The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) compiles the total cost of the system.  
+
 Here is a complete list of the manufacturers we purchased materials from: 
 - McMaster-Carr
 - Pololu
@@ -29,19 +35,11 @@ Here is a complete list of the manufacturers we purchased materials from:
 - FLIR
 - The Imaging Source
 
-
 Our system also requires custom-made parts either fabricated in-house or from the following companies:
 - eMachineShop (CNC Machining)
 - Ponoko (Laser Cutting)
 - Craftcloud3d (3-D Printing)
 - JBL PCB (PCB Printing / Soldering)
-
-
-The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
-
-This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. 
-
-The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) compiles the total cost of the system.  
 
 # Step-by-Step Building Guide
 
