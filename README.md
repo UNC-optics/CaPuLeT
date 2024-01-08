@@ -19,7 +19,9 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
-The complete component list, with quantities specified, can be found in the following [document](a-Pupillometry-Components-Table.pdf).
+The complete component list, with quantities specified, can be found in the following [document](1-Pupillometry-Components-Table.pdf).
+
+This version of the component list provides a color coded key which can support
 
 # Step-by-Step Building Guide
 
