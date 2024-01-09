@@ -77,3 +77,9 @@ Our MATLAB scripts are based on MATLAB R2022a, a previous version of the softwar
 - Image Acquisition Toolbox Support Package OS Generic Video Interface
 - Image Acquisition Toolbox Support Package for Pont Grey Hardware
 - MATLAB Support Package for Arduino Hardware
+
+Finally, users will need to download the following drivers to generate a connection between their computer system and an external hardware devices. In our case, we need to download two drivers to interface with the monochrome camera used in our system.
+
+**Driver Requirements**:
+- USB3 Driver
+- DMK 22BUC03 Driver 
