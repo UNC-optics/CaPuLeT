@@ -13,9 +13,8 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 **Required Software and Applications**:
 - MATLAB R2022a 
 - Arduino IDE 
-- SpinView 
+- Spinnaker SDK (Spinview GUI)
 - DeepLabCuts
-
 
 # Commercially Avaliable and Custom Made Parts 
 
@@ -57,14 +56,14 @@ This following guide provides a step-by-step walkthrough for building and modify
 
 # Software Installation Guide and Dependencies
 
-Following this installation guide will ensure that your system will be able to run the different sets of files we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize componnets, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data aquisition steps are performed exclusively using MATLAB toolboxes. 
-
-Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software application. Running our scripts on a more recent version of the application will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons. Additionally, 
+Following this installation guide will ensure that your system will be able to run the set of MATLAB scripts and Arduino IDE sketches we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize componnets, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data aquisition steps are performed exclusively with MATLAB. 
 
 **Software Requirements**:
 - MATLAB R2022a
 - Arduino IDE
-- Spinnaker SDK
+- Spinnaker SDK (Spinview GUI)
+  
+Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software application. Running our scripts on a more recent version of the application will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons. 
 
 **Base Toolboxes**:
 - Data Acquisition Toolbox
@@ -78,6 +77,3 @@ Our MATLAB scripts are based on MATLAB R2022a, a previous version of the softwar
 - Image Acquisition Toolbox Support Package OS Generic Video Interface
 - Image Acquisition Toolbox Support Package for Pont Grey Hardware
 - MATLAB Support Package for Arduino Hardware
-
-In 
-
