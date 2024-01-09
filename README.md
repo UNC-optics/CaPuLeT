@@ -57,5 +57,9 @@ This following guide provides a step-by-step walkthrough for building and modify
 
 # Software Installation Guide and Dependencies
 
-A
+Each of the functions of our system are driven from a combination of MATLAB scripts and Arduino IDE sketches. Following this installation guide will ensure that your system will be able to run the different sets of files we have provided.  
+
+Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software. Running our scripts on a more recent version of the software will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons.
+
+
 
