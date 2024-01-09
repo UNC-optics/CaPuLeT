@@ -19,7 +19,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
-The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list provides a color coded key which provides an additional layer of support when building the system. 
+The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list contains a color coded key which provides an additional layer of support when building the system. 
 
 This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](5-Pupillometry-Wheel-Custom-Parts-Specifications.pdf). The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
 
@@ -41,6 +41,17 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 
 # Step-by-Step Building Guide
 
+**A fully functioning system requires users to build the following elements from the materials purchased**:
+- Rotary Wheel
+- Head Plate System
+- IR / UV LEDs
+
+**Additionally, the following commercial materials need to modified to be used within our system:**
+- Rotary Encoder
+- GPIO Cable
+- Speaker
+- Red LED Strips
+  
 []
 
 # Software Installation Guide and Dependencies
