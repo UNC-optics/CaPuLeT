@@ -2,6 +2,8 @@
 
 Designed by members of the Rodriguez-Romaguera Lab at the University of North Carolina at Chapel Hill, this running wheel for head-fixed mice allows researchers to capture pupil dynamics and body kinematics. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an aerial monochrome camera to record body kinematics. Additionally, our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attatched to a mounted rotary encoder.
 
+![Complete Pupillometry System](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/5e5b179f-59bd-4b95-bb8d-88f05cd41c20)
+
 **Behavioral Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
 - Monochrome Camera → Body Kinematics (Body and Tail Movement)
