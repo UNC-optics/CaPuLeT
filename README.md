@@ -51,8 +51,8 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 - GPIO Cable
 - Speaker
 - Red LED Strips
-  
-[]
+
+This following guide provides a step-by-step walkthrough for building and modifying each of required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
 
 # Software Installation Guide and Dependencies
 
