@@ -57,14 +57,14 @@ This following guide provides a step-by-step walkthrough for building and modify
 
 # Software Installation Guide and Dependencies
 
-Following this installation guide will ensure that your system will be able to run the different sets of files we have provided. Our system is run primarily on MATLAB's interface. While some components, such as the rotary encoder and camera, are first initialized with other software, the subsequent input signals and data aquisition steps are performed using MATLAB toolboxes. 
+Following this installation guide will ensure that your system will be able to run the different sets of files we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize componnets, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data aquisition steps are performed exclusively using MATLAB toolboxes. 
+
+Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software application. Running our scripts on a more recent version of the application will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons. Additionally, 
 
 **Software Requirements**:
 - MATLAB R2022a
 - Arduino IDE
 - Spinnaker SDK
-
-Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software application. Running our scripts on a more recent version of the application will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons.
 
 **Base Toolboxes**:
 - Data Acquisition Toolbox
