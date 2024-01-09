@@ -61,5 +61,17 @@ Each of the functions of our system are driven from a combination of MATLAB scri
 
 Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software. Running our scripts on a more recent version of the software will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons.
 
+**Base Toolboxes**:
+- Data Acquisition Toolbox
+- Image Acquisition Toolbox
+- Image Processing Toolbox
+- Statistics and Machine Learning Toolbox 
+
+**Additional Toolbox Support Packages**:
+- Data Acquisition Toolbox Support Package for National Instruments NI-DAQmx Devices
+- Image Acquisition Toolbox Support Package for GenICam Interface
+- Image Acquisition Toolbox Support Package OS Generic Video Interface
+- Image Acquisition Toolbox Support Package for Pont Grey Hardware
+- MATLAB Support Package for Arduino Hardware
 
 
