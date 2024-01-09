@@ -54,6 +54,8 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 
 This following guide provides a step-by-step walkthrough for building and modifying each of required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
 
+![Full Setup (Annoted Dual Panel, reduced pixels)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/09a6b660-11ac-435a-b907-11ad78d9a631)
+
 # Software Installation Guide and Dependencies
 
 Following this installation guide will ensure that your system will be able to run the set of MATLAB scripts and Arduino IDE sketches we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize componnets, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data aquisition steps are performed exclusively with MATLAB. 
