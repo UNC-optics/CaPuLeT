@@ -49,7 +49,8 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 **Additionally, the following commercial materials need to modified to be used within our system:**
 - Rotary Encoder
 - GPIO Cable
-- Speaker
+- Overhead Speaker
+- Ambiant Noise Fan
 - Red LED Strips
 
 This following guide provides a step-by-step walkthrough for building and modifying each of required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
