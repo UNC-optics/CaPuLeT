@@ -57,9 +57,14 @@ This following guide provides a step-by-step walkthrough for building and modify
 
 # Software Installation Guide and Dependencies
 
-Each of the functions of our system are driven from a combination of MATLAB scripts and Arduino IDE sketches. Following this installation guide will ensure that your system will be able to run the different sets of files we have provided.  
+Following this installation guide will ensure that your system will be able to run the different sets of files we have provided. Our system is run primarily on MATLAB's interface. While some components, such as the rotary encoder and camera, are first initialized with other software, the subsequent input signals and data aquisition steps are performed using MATLAB toolboxes. 
 
-Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software. Running our scripts on a more recent version of the software will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons.
+**Software Requirements**:
+- MATLAB R2022a
+- Arduino IDE
+- Spinnaker SDK
+
+Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software application. Running our scripts on a more recent version of the application will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons.
 
 **Base Toolboxes**:
 - Data Acquisition Toolbox
@@ -74,4 +79,5 @@ Our MATLAB scripts are based on MATLAB R2022a, a previous version of the softwar
 - Image Acquisition Toolbox Support Package for Pont Grey Hardware
 - MATLAB Support Package for Arduino Hardware
 
+In 
 
