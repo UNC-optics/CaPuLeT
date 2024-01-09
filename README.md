@@ -7,10 +7,10 @@ Designed by members of the Rodriguez-Romaguera Lab at the University of North Ca
 - Monochrome Camera → Body Kinematics (Body and Tail Movement)
 - Rotary Encoder → Locotion (Speed and Acceleration)
 
-### **Custom Arduino Printed Circuit Board Shield**:
+**Custom Arduino Printed Circuit Board Shield**:
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with build in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
-### **Required Software and Applications**:
+**Required Software and Applications**:
 - MATLAB R2022a 
 - Arduino IDE 
 - SpinView 
@@ -23,7 +23,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 
 This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](5-Pupillometry-Wheel-Custom-Parts-Specifications.pdf). The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
 
-### Here is a list of the manufacturers we purchased materials from: 
+**Here is a list of the manufacturers we purchased materials from:** 
 - McMaster-Carr
 - Pololu
 - Thorlabs
@@ -33,7 +33,7 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 - FLIR
 - The Imaging Source
 
-### Here is a list of companies you can purchase custom parts from, if not fabricated in-house:
+**Here is a list of companies you can purchase custom parts from, if not fabricated in-house:**
 - eMachineShop (CNC Machining)
 - Ponoko (Laser Cutting)
 - Craftcloud3d (3-D Printing)
@@ -41,7 +41,7 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 
 # Step-by-Step Building Guide
 
-**A fully functioning system requires users to build the following elements from the materials purchased**:
+**A fully functioning system requires users to build the following elements from the materials purchased:**
 - Rotary Wheel
 - Head Plate System
 - IR / UV LEDs
