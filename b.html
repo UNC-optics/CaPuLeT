@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sortable Fruit Nutritional Information</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Fruit Nutritional Information</h2>
+
+<table id="fruit-table">
+    <thead>
+        <tr>
+            <th onclick="sortTable(0)">Fruit</th>
+            <th onclick="sortTable(1)">Calories (kcal)</th>
+            <th onclick="sortTable(2)">Carbohydrates (g)</th>
+            <th onclick="sortTable(3)">Fiber (g)</th>
+            <th onclick="sortTable(4)">Vitamin C (mg)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Apple</td>
+            <td>52</td>
+            <td>14</td>
+            <td>2.4</td>
+            <td>8.4</td>
+        </tr>
+        <tr>
+            <td>Banana</td>
+            <td>89</td>
+            <td>23</td>
+            <td>2.6</td>
+            <td>10.3</td>
+        </tr>
+        <tr>
+            <td>Orange</td>
+            <td>47</td>
+            <td>12</td>
+            <td>2.4</td>
+            <td>59.1</td>
+        </tr>
+        <tr>
+            <td>Grapes</td>
+            <td>69</td>
+            <td>18</td>
+            <td>0.9</td>
+            <td>4.8</td>
+        </tr>
+    </tbody>
+</table>
+
+<script>
+function sortTable(columnIndex) {
+    var table, rows, switching, i, x, y, shouldSwitch;
+    table = document.getElementById("fruit-table");
+    switching = true;
+    while (switching) {
+        switching = false;
+        rows = table.rows;
+        for (i = 1; i < (rows.length - 1); i++) {
+            shouldSwitch = false;
+            x = rows[i].getElementsByTagName("td")[columnIndex];
+            y = rows[i + 1].getElementsByTagName("td")[columnIndex];
+            if (isNaN(x.innerHTML)) {
+                if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                    shouldSwitch = true;
+                    break;
+                }
+            } else {
+                if (parseFloat(x.innerHTML) > parseFloat(y.innerHTML)) {
+                    shouldSwitch = true;
+                    break;
+                }
+            }
+        }
+        if (shouldSwitch) {
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+        }
+    }
+}
+</script>
+
+</body>
+</html>
