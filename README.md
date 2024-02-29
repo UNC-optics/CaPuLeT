@@ -98,8 +98,8 @@ Finally, users will need to download the following drivers to generate a connect
 <thead><tr><th title="Field #1">Part Number</th>
 <th title="Field #2">Distributor</th>
 <th title="Field #3">Part Name</th>
-<th title="Field #4">Distributer Part Number</th>
-<th title="Field #5">Qty Needed</th>
+<th title="Field #4">Distributor Part Number</th>
+<th title="Field #5">Quantity Needed</th>
 <th title="Field #6">Unit Price</th>
 <th title="Field #7">Total Price</th>
 </tr></thead>
