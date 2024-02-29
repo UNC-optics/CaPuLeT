@@ -752,3 +752,8 @@ Finally, users will need to download the following drivers to generate a connect
 **Driver Requirements**:
 - USB3 Driver
 - DMK 22BUC03 Driver
+
+# Graphic User Interface (GUI)
+
+The following MATLAB graphic user interface allows users to trigger and manage the cameras and LEDs driven by the custom-made Arduino shield. 
+
