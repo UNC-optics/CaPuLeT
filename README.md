@@ -287,7 +287,7 @@ Finally, users will need to download the following drivers to generate a connect
 <td align="right">21</td>
 <td>Thorlabs</td>
 <td>Aluminum Breadboard 8&quot; x 10&quot; x 1/2&quot;, 1/4&quot;-20 Taps</td>
-<td>MB810�</td>
+<td>MB810</td>
 <td>1</td>
 <td>$131.60 </td>
 <td>$131.60 </td>
@@ -394,18 +394,18 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">33</td>
 <td>Amazon</td>
-<td>Mini-USB 2.0 Type A to Mini-B cable (VOTY )��</td>
-<td>B07NJW2ZPJ�</td>
-<td>1 (Pack of 2)�</td>
+<td>Mini-USB 2.0 Type A to Mini-B cable (VOTY )</td>
+<td>B07NJW2ZPJ</td>
+<td>1 (Pack of 2)</td>
 <td>$8.95 </td>
 <td>$8.95 </td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td>Amazon</td>
-<td>0.33-Inch Varifocal lens 2.8-12mm F1.3 Auto Iris (Computar)�</td>
-<td>B002HRE2ZS / TG4Z2813FCS-IR�</td>
-<td>1�(Used)</td>
+<td>0.33-Inch Varifocal lens 2.8-12mm F1.3 Auto Iris (Computar)</td>
+<td>B002HRE2ZS / TG4Z2813FCS-IR</td>
+<td>1(Used)</td>
 <td>$19.99 </td>
 <td>$19.99 </td>
 </tr>
@@ -430,9 +430,9 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">37</td>
 <td>Amazon</td>
-<td>24 AWG 50 feet Electrical Wire (Fermerry)�</td>
-<td>B089CX3FVV�</td>
-<td>1�</td>
+<td>24 AWG 50 feet Electrical Wire (Fermerry)</td>
+<td>B089CX3FVV</td>
+<td>1</td>
 <td>$26.99 </td>
 <td>$26.99 </td>
 </tr>
@@ -457,9 +457,9 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">40</td>
 <td>Amazon</td>
-<td>2.54mm Pitch Single Row Pin Header Strip (HiLetgo)��</td>
-<td>B07R5QDL8D�</td>
-<td>1�</td>
+<td>2.54mm Pitch Single Row Pin Header Strip (HiLetgo)</td>
+<td>B07R5QDL8D</td>
+<td>1</td>
 <td>$5.49 </td>
 <td>$5.49 </td>
 </tr>
@@ -475,27 +475,27 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">42</td>
 <td>Amazon</td>
-<td>2N2222 NPN TO-92 Power Transistors (Ardest)�</td>
-<td>B07222XY81�</td>
-<td>1 (Pack of 100)�</td>
+<td>2N2222 NPN TO-92 Power Transistors (Ardest)</td>
+<td>B07222XY81</td>
+<td>1 (Pack of 100)</td>
 <td>$10.99 </td>
 <td>$10.99 </td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td>Amazon</td>
-<td>Real Time Clock Module DS3231 AT24C32 IIC (Adeept)�</td>
-<td>2pcsDS3231 / B097PMNMQZ�</td>
-<td>1 (Pack of 2)�</td>
+<td>Real Time Clock Module DS3231 AT24C32 IIC (Adeept)</td>
+<td>2pcsDS3231 / B097PMNMQZ</td>
+<td>1 (Pack of 2)</td>
 <td>$7.99 </td>
 <td>$7.99 </td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td>Amazon</td>
-<td>3V Lithium Battery (Junpower)�</td>
-<td>CR2032 / B07LGL9LQ1�</td>
-<td>1 (Pack of 10)�</td>
+<td>3V Lithium Battery (Junpower)</td>
+<td>CR2032 / B07LGL9LQ1</td>
+<td>1 (Pack of 10)</td>
 <td>$4.99 </td>
 <td>$4.99 </td>
 </tr>
@@ -556,36 +556,36 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">51</td>
 <td>Amazon</td>
-<td>Power Strip Surge Protector 10Ft (Mifaso Power)�</td>
-<td>B0BTPB5Z4W�</td>
-<td>1�</td>
+<td>Power Strip Surge Protector 10Ft (Mifaso Power)</td>
+<td>B0BTPB5Z4W</td>
+<td>1</td>
 <td>$19.99 </td>
 <td>$19.99 </td>
 </tr>
 <tr>
 <td align="right">52</td>
 <td>Amazon</td>
-<td>Anti Vibration Pads (Functional Necessities)�</td>
-<td>B08NWRFLDC�</td>
-<td>1 (Pack of 4)�</td>
+<td>Anti Vibration Pads (Functional Necessities)</td>
+<td>B08NWRFLDC</td>
+<td>1 (Pack of 4)</td>
 <td>$14.99 </td>
 <td>$14.99 </td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td>Amazon</td>
-<td>1&quot; x 12&quot; x 12&quot; Sound Absorption Wall Panels (Xin &amp; Log)�</td>
-<td>B078VVJTXQ�</td>
-<td>1 (Pack of 24)�</td>
+<td>1&quot; x 12&quot; x 12&quot; Sound Absorption Wall Panels (Xin &amp; Log)</td>
+<td>B078VVJTXQ</td>
+<td>1 (Pack of 24)</td>
 <td>$17.99 </td>
 <td>$17.99 </td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td>Amazon</td>
-<td>4 inch Zip Ties with 18 lb Tensile Strength�</td>
-<td>B0BC1VH4XB�</td>
-<td>1 (Pack of 200)�</td>
+<td>4 inch Zip Ties with 18 lb Tensile Strength</td>
+<td>B0BC1VH4XB</td>
+<td>1 (Pack of 200)</td>
 <td>$3.99 </td>
 <td>$3.99 </td>
 </tr>
@@ -601,8 +601,8 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">56</td>
 <td>Custom Machined Parts</td>
-<td>Rotary Encoder Adaptor (Aluminum 304)�</td>
-<td>CNC Machining (eMachineShop)�</td>
+<td>Rotary Encoder Adaptor (Aluminum 304)</td>
+<td>CNC Machining (eMachineShop)</td>
 <td>6 (Bulk Purchase)</td>
 <td>$28.43 </td>
 <td>$170.62 </td>
@@ -610,8 +610,8 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">57</td>
 <td>Custom Machined Parts</td>
-<td>Head Plate Holder (Aluminum 304)�</td>
-<td>CNC Machining (eMachineShop)�</td>
+<td>Head Plate Holder (Aluminum 304)</td>
+<td>CNC Machining (eMachineShop)</td>
 <td>12 (Bulk Purchase)</td>
 <td>$30.20 </td>
 <td>$362.44 </td>
@@ -619,8 +619,8 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">58</td>
 <td>Custom Machined Parts</td>
-<td>Head Plate (Top Piece) (Aluminum 304)�</td>
-<td>CNC Machining (eMachineShop)�</td>
+<td>Head Plate (Top Piece) (Aluminum 304)</td>
+<td>CNC Machining (eMachineShop)</td>
 <td>6 (Bulk Purchase)</td>
 <td>$39.14 </td>
 <td>$234.85 </td>
@@ -628,8 +628,8 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">59</td>
 <td>Custom Machined Parts</td>
-<td>Head Plate (Bottom Piece) (Aluminum 304)�</td>
-<td>CNC Machining (eMachineShop)�</td>
+<td>Head Plate (Bottom Piece) (Aluminum 304)</td>
+<td>CNC Machining (eMachineShop)</td>
 <td>6 (Bulk Purchase)</td>
 <td>$51.01 </td>
 <td>$306.04 </td>
@@ -637,8 +637,8 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">60</td>
 <td>Custom Machined Parts</td>
-<td>Head rings (Aluminum 6061-T6)��</td>
-<td>CNC Machining (eMachineShop)�</td>
+<td>Head rings (Aluminum 6061-T6)</td>
+<td>CNC Machining (eMachineShop)</td>
 <td>100 (Bulk Purchase)</td>
 <td>$5.16 </td>
 <td>$258.22 </td>
@@ -646,43 +646,43 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">61</td>
 <td>Custom Machined Parts</td>
-<td>Rotary Wheel (1/8 Thick Clear Cast Acrylic)�</td>
-<td>Laser Cutting (Ponoko)�</td>
-<td>2�</td>
+<td>Rotary Wheel (1/8 Thick Clear Cast Acrylic)</td>
+<td>Laser Cutting (Ponoko)</td>
+<td>2</td>
 <td>$61.06 </td>
 <td>$61.06 </td>
 </tr>
 <tr>
 <td align="right">62</td>
 <td>Custom Machined Parts</td>
-<td>Rotary Wheel Curved Surface (Clear Cast Acrylic)�</td>
-<td>Laser Cutting / Manual Cutting�</td>
-<td>1�</td>
+<td>Rotary Wheel Curved Surface (Clear Cast Acrylic)</td>
+<td>Laser Cutting / Manual Cutting</td>
+<td>1</td>
 <td>$0.00 </td>
 <td>$0.00 </td>
 </tr>
 <tr>
 <td align="right">63</td>
 <td>Custom Machined Parts</td>
-<td>Rotary Wheel Curved Surface (Black Adhesive Contact Paper)�</td>
-<td>Laser Cutting / Manual Cutting�</td>
-<td>1�</td>
+<td>Rotary Wheel Curved Surface (Black Adhesive Contact Paper)</td>
+<td>Laser Cutting / Manual Cutting</td>
+<td>1</td>
 <td>$0.00 </td>
 <td>$0.00 </td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td>Custom Machined Parts</td>
-<td>Waste Management Ramp (Resin)�</td>
-<td>3-D Printing (Craftcloud3d)�</td>
-<td>1�</td>
+<td>Waste Management Ramp (Resin)</td>
+<td>3-D Printing (Craftcloud3d)</td>
+<td>1</td>
 <td>$57.76 </td>
 <td>$57.76 </td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td>Custom Machined Parts</td>
-<td>Arduino Mega 2560 Rev3 Protective Case (Resin)�</td>
+<td>Arduino Mega 2560 Rev3 Protective Case (Resin)</td>
 <td>3-D Printing (Craftcloud3d)</td>
 <td>1</td>
 <td>$16.06 </td>
@@ -709,9 +709,9 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">68</td>
 <td>FLIR</td>
-<td>Tripod Adapter for Firefly S Camera�</td>
-<td>ACC-01-0017�</td>
-<td>1�</td>
+<td>Tripod Adapter for Firefly S Camera</td>
+<td>ACC-01-0017</td>
+<td>1</td>
 <td>$32.10 </td>
 <td>$32.10 </td>
 </tr>
@@ -736,9 +736,9 @@ Finally, users will need to download the following drivers to generate a connect
 <tr>
 <td align="right">71</td>
 <td>The Imaging Source</td>
-<td>USB 2.0 CMOS Monochrome Camera�</td>
-<td>DMK-22BUC03�</td>
-<td>1�</td>
+<td>USB 2.0 CMOS Monochrome Camera</td>
+<td>DMK-22BUC03</td>
+<td>1</td>
 <td>$234.00 </td>
 <td>$234.00 </td>
 </tr>
