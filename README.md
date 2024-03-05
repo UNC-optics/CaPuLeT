@@ -757,3 +757,12 @@ Finally, users will need to download the following drivers to generate a connect
 
 The following MATLAB graphic user interface allows users to trigger and manage the cameras and LEDs driven by the custom-made Arduino shield. 
 
+# Contact
+
+For further information and requests for resources, contact Jovan Tormes Vaquerano (jovantv@unc.edu).
+
+# Citation 
+
+[1]
+
+
