@@ -324,11 +324,11 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <tr>
 <td align="right">33</td>
 <td>Amazon</td>
-<td>Mini-USB 2.0 Type A to Mini-B cable (VOTY )</td>
-<td>B07NJW2ZPJ</td>
-<td>1 (Pack of 2)</td>
-<td>$8.95 </td>
-<td>$8.95 </td>
+<td>USB 2.0 Type-A Male to Mini-B 5pin Male Cable (Monoprice)</td>
+<td>B002KL8J8W</td>
+<td>1</td>
+<td>$4.78</td>
+<td>$4.78</td>
 </tr>
 <tr>
 <td align="right">34</td>
