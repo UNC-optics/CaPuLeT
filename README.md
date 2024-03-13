@@ -315,8 +315,8 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <tr>
 <td align="right">32</td>
 <td>Amazon</td>
-<td>S-mount lens with IR filter (Xenocam)</td>
-<td>SPM16214000924</td>
+<td>9-22mm 1/3" F1.4 M12-mount lens with IR filter</td>
+<td>B06XFXV6PP / SPM16214000924</td>
 <td>1</td>
 <td>$19.99 </td>
 <td>$19.99 </td>
