@@ -718,9 +718,11 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 
 This following guide provides a step-by-step walkthrough for building and modifying each of required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
 
-![Labled Full Pupillometry Setup (Distributor Part Number) (Lossless Conversion)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/54193ec6-5679-49b8-b566-6202ed5a8fd6)
+![Optical_Breadboard_Structure_Combined_Github](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/61942757-8339-4367-9151-58965546663c)
 
-![Labled Full Pupillometry Setup (Internal Part Number) (Lossless conversion)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/2fa64411-3f92-41df-9d72-a3405e1b4e41)
+![Pupillometry System Updated Numbering (White Bakcground)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/088d372c-a982-490e-b6a5-5d654ec7a3b0)
+
+![Pupillometry System Original Numbering (White Bakcground)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/ed6f7c79-b517-437e-9079-d520f9988618)
 
 
 # Software Installation Guide and Dependencies
