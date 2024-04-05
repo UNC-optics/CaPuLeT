@@ -323,7 +323,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$1.44</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">32</td>
 <td>Amazon</td>
 <td>5 mm Steel Ball Bearing</td>
 <td>B00GGQ1NVC / SMR115-ZZ #5 LD</td>
@@ -332,7 +332,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$21.16 </td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">33</td>
 <td>Amazon</td>
 <td>9-22mm 1/3" F1.4 M12-mount lens with IR filter</td>
 <td>B06XFXV6PP / SPM16214000924</td>
@@ -341,7 +341,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$19.99 </td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">34</td>
 <td>Amazon</td>
 <td>USB 2.0 Type-A Male to Mini-B 5pin Male Cable (Monoprice)</td>
 <td>B002KL8J8W</td>
@@ -350,7 +350,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$4.78</td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td>Amazon</td>
 <td>0.33-Inch Varifocal lens 2.8-12mm F1.3 Auto Iris (Computar)</td>
 <td>B002HRE2ZS / TG4Z2813FCS-IR</td>
@@ -359,7 +359,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$19.99 </td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">36</td>
 <td>Amazon</td>
 <td>3 mm UV light, 395-400nm (Chanzon)</td>
 <td>100F3T-YT-WH-PU</td>
@@ -368,7 +368,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$6.99 </td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">37</td>
 <td>Amazon</td>
 <td>5 mm super-bright IR LED, 940nm (Adafruit)</td>
 <td>ADA388 / B00ULB0U44</td>
@@ -377,7 +377,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$10.98 </td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">38</td>
 <td>Amazon</td>
 <td>24 AWG 50 feet Electrical Wire (Fermerry)</td>
 <td>B089CX3FVV</td>
@@ -386,7 +386,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$26.99 </td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">39</td>
 <td>Amazon</td>
 <td>Arduino Mega 2560 Rev3 Microcontroller Board (Arduino)</td>
 <td>A000067 / B0046AMGW0</td>
@@ -395,7 +395,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$48.99 </td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">40</td>
 <td>Amazon</td>
 <td>USB 2.0 Cable Type A/B (Arduino)</td>
 <td>M000006 / B013EOQUAW</td>
@@ -404,7 +404,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$7.00 </td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">41</td>
 <td>Amazon</td>
 <td>PCB Mount Screw Terminal Block Connectors (Tnisesm)</td>
 <td>CATN-T03B</td>
@@ -422,7 +422,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$7.99 </td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">43</td>
 <td>Amazon</td>
 <td>3V Lithium Battery (Junpower)</td>
 <td>CR2032 / B07LGL9LQ1</td>
@@ -431,7 +431,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$4.99 </td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">44</td>
 <td>Amazon</td>
 <td>Heat Shrink Tubing (Electfun)</td>
 <td>ELECFUN / B08SQBPVJB</td>
@@ -440,7 +440,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$14.99 </td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">45</td>
 <td>Amazon</td>
 <td>Black Adhesive contact paper (Yancorp)</td>
 <td>B082CPSVPW</td>
@@ -449,7 +449,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$6.98 </td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">46</td>
 <td>Amazon</td>
 <td>IPS Weld-On 3 Acrylic Plastic Cement (Weld-On)</td>
 <td>?TLLPN-21847771</td>
@@ -458,7 +458,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$28.55 </td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">47</td>
 <td>Amazon</td>
 <td>12V 5A DC Power Cable Male Female Connector (Centro Power)</td>
 <td>B07C7VSRBG</td>
@@ -467,7 +467,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$9.19 </td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">48</td>
 <td>Amazon</td>
 <td>12V DC Power Connector Barrel Adaptor (Centro Power)</td>
 <td>B07C61434H</td>
@@ -476,7 +476,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$7.99 </td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">49</td>
 <td>Amazon</td>
 <td>12V Red LED Flexible Strip Ribbon Light (Alitrove, 16.4 feet)</td>
 <td>B07MXXDWDM</td>
@@ -485,7 +485,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$13.99 </td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">50</td>
 <td>Amazon</td>
 <td>Power Strip Surge Protector 10Ft (Mifaso Power)</td>
 <td>B0BTPB5Z4W</td>
@@ -494,7 +494,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$19.99 </td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">51</td>
 <td>Amazon</td>
 <td>Anti Vibration Pads (Functional Necessities)</td>
 <td>B08NWRFLDC</td>
@@ -503,7 +503,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$14.99 </td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">52</td>
 <td>Amazon</td>
 <td>1&quot; x 12&quot; x 12&quot; Sound Absorption Wall Panels (Xin &amp; Log)</td>
 <td>B078VVJTXQ</td>
@@ -512,7 +512,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$17.99 </td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">53</td>
 <td>Amazon</td>
 <td>4 inch Zip Ties with 18 lb Tensile Strength</td>
 <td>B0BC1VH4XB</td>
@@ -521,7 +521,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$3.99 </td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">54</td>
 <td>Amazon</td>
 <td>3M Scotch Super 33+ Electrical Tape - 3/4 in x 52 ft</td>
 <td>B0000AZ9HG</td>
@@ -530,7 +530,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$4.98 </td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">55</td>
 <td>Custom Machined Parts</td>
 <td>Rotary Encoder Adaptor (Aluminum 304)</td>
 <td>CNC Machining (eMachineShop)</td>
@@ -539,7 +539,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$170.62 </td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">56</td>
 <td>Custom Machined Parts</td>
 <td>Head Plate Holder (Aluminum 304)</td>
 <td>CNC Machining (eMachineShop)</td>
@@ -548,7 +548,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$362.44 </td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">57</td>
 <td>Custom Machined Parts</td>
 <td>Head Plate (Top Piece) (Aluminum 304)</td>
 <td>CNC Machining (eMachineShop)</td>
@@ -557,7 +557,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$234.85 </td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">58</td>
 <td>Custom Machined Parts</td>
 <td>Head Plate (Bottom Piece) (Aluminum 304)</td>
 <td>CNC Machining (eMachineShop)</td>
@@ -566,7 +566,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$306.04 </td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">59</td>
 <td>Custom Machined Parts</td>
 <td>Head rings (Aluminum 6061-T6)</td>
 <td>CNC Machining (eMachineShop)</td>
@@ -575,7 +575,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$258.22 </td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">60</td>
 <td>Custom Machined Parts</td>
 <td>Rotary Wheel (1/8 Thick Clear Cast Acrylic)</td>
 <td>Laser Cutting (Ponoko)</td>
@@ -584,7 +584,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$61.06 </td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">61</td>
 <td>Custom Machined Parts</td>
 <td>Rotary Wheel Curved Surface (Clear Cast Acrylic)</td>
 <td>Laser Cutting / Manual Cutting</td>
@@ -593,7 +593,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$0.00 </td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">62</td>
 <td>Custom Machined Parts</td>
 <td>Rotary Wheel Curved Surface (Black Adhesive Contact Paper)</td>
 <td>Laser Cutting / Manual Cutting</td>
@@ -602,7 +602,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$0.00 </td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">63</td>
 <td>Custom Machined Parts</td>
 <td>Waste Management Ramp (Resin)</td>
 <td>3-D Printing (Craftcloud3d)</td>
@@ -611,7 +611,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$57.76 </td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">64</td>
 <td>Custom Machined Parts</td>
 <td>Arduino Mega 2560 Rev3 Protective Case (Resin)</td>
 <td>3-D Printing (Craftcloud3d)</td>
@@ -620,7 +620,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$16.06 </td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">65</td>
 <td>Custom Machined Parts</td>
 <td>Arduino Mega 2560 Rev3 Shield SMT PCB</td>
 <td>PCB Manufacturing (JLC PCB)</td>
@@ -629,7 +629,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>X</td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">66</td>
 <td>FLIR</td>
 <td>Firefly S Camera</td>
 <td>FFY-U3-16S2M-S</td>
@@ -638,7 +638,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$234.00 </td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">67</td>
 <td>FLIR</td>
 <td>Tripod Adapter for Firefly S Camera</td>
 <td>ACC-01-0017</td>
@@ -647,7 +647,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$32.10 </td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">68</td>
 <td>FLIR</td>
 <td>USB 3.1 Locking Cable</td>
 <td>ACC-01-2300</td>
@@ -656,7 +656,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$24.60 </td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">69</td>
 <td>FLIR</td>
 <td>GPIO cable w/ 6 pins</td>
 <td>ACC-01-3015</td>
@@ -665,7 +665,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$9.60 </td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">70</td>
 <td>The Imaging Source</td>
 <td>USB 2.0 CMOS Monochrome Camera</td>
 <td>DMK-22BUC03</td>
@@ -674,7 +674,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <td>$234.00 </td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">71</td>
 <td>SYSRACKS</td>
 <td>15U 35&quot; Depth Under Desk Sound Proof Server Cabinet</td>
 <td>SP15.900</td>
