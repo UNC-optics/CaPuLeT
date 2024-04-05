@@ -758,6 +758,7 @@ Finally, users will need to download the following drivers to generate a connect
 **Driver Requirements**:
 - USB3 Driver
 - DMK 22BUC03 Driver
+- IC Matlab Plugin for Matlab 
 
 # Graphic User Interface (GUI)
 
