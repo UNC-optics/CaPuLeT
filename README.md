@@ -306,6 +306,24 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 </tr>
 <tr>
 <td align="right">31</td>
+<td>Digikey</td>
+<td>2.54mm Pitch Single Row Pin Header Strip</td>
+<td>S1012EC-40-ND</td>
+<td>3</td>
+<td>$1.53</td>
+<td>$1.53</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td>Digikey</td>
+<td>2N2222 NPN TO-92 Power Transistors</td>
+<td>2721-2N2222A-ND</td>
+<td>6</td>
+<td>$1.44</td>
+<td>$1.44</td>
+</tr>
+<tr>
+<td align="right">31</td>
 <td>Amazon</td>
 <td>5 mm Steel Ball Bearing</td>
 <td>B00GGQ1NVC / SMR115-ZZ #5 LD</td>
@@ -388,15 +406,6 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 <tr>
 <td align="right">40</td>
 <td>Amazon</td>
-<td>2.54mm Pitch Single Row Pin Header Strip (HiLetgo)</td>
-<td>B07R5QDL8D</td>
-<td>1</td>
-<td>$5.49 </td>
-<td>$5.49 </td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td>Amazon</td>
 <td>PCB Mount Screw Terminal Block Connectors (Tnisesm)</td>
 <td>CATN-T03B</td>
 <td>1</td>
@@ -405,15 +414,6 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 </tr>
 <tr>
 <td align="right">42</td>
-<td>Amazon</td>
-<td>2N2222 NPN TO-92 Power Transistors (Ardest)</td>
-<td>B07222XY81</td>
-<td>1 (Pack of 100)</td>
-<td>$10.99 </td>
-<td>$10.99 </td>
-</tr>
-<tr>
-<td align="right">43</td>
 <td>Amazon</td>
 <td>Real Time Clock Module DS3231 AT24C32 IIC (Adeept)</td>
 <td>2pcsDS3231 / B097PMNMQZ</td>
