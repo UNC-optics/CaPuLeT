@@ -1,6 +1,6 @@
 # An open-source system for pupillometry and locomotor tracking in head-fixed mice
 
-Designed by members of the Rodriguez-Romaguera Lab at the University of North Carolina at Chapel Hill, this running wheel for head-fixed mice allows researchers to capture pupil dynamics and body kinematics. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an aerial monochrome camera to record body kinematics. Additionally, our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attatched to a mounted rotary encoder.
+Designed by members of the Pégard and Rodríguez-Romaguera Labs at the University of North Carolina at Chapel Hill, this locomotion wheel for head-fixed mice allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an additional monochrome camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attatched to a mounted rotary encoder.
 
 
 ![Pupillometry System Labled (4_4_2024)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/b9ecf772-b775-42db-a923-65d1e1a13e8c)
@@ -9,7 +9,7 @@ Designed by members of the Rodriguez-Romaguera Lab at the University of North Ca
 
 **Behavioral Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
-- Monochrome Camera → Body Kinematics (Body and Tail Movement)
+- Additional Camera → Body Kinematics (Body and Tail Movement)
 - Rotary Encoder → Locotion (Speed and Acceleration)
 
 **Custom Arduino Printed Circuit Board Shield**:
@@ -696,6 +696,7 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 - Amazon
 - FLIR
 - The Imaging Source
+- SYSRACKS
 
 **Here is a list of companies you can purchase custom parts from, if not fabricated in-house:**
 - eMachineShop (CNC Machining)
@@ -706,13 +707,14 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 # Step-by-Step Building Guide
 
 **A fully functioning system requires users to build the following elements from the materials purchased:**
-- Rotary Wheel
-- Head Plate System
+- Locomotion Wheel
+- Headplate Fixation System
 - IR / UV LEDs
 
 **Additionally, the following commercial materials need to modified to be used within our system:**
 - Rotary Encoder
 - GPIO Cable
+- Hirose Cable
 - Overhead Speaker
 - Ambiant Noise Fan
 - Red LED Strips
@@ -748,6 +750,7 @@ Our MATLAB scripts are based on MATLAB R2022a, a previous version of the softwar
 - Image Acquisition Toolbox Support Package for GenICam Interface
 - Image Acquisition Toolbox Support Package OS Generic Video Interface
 - Image Acquisition Toolbox Support Package for Pont Grey Hardware
+- Image Acquisition Toolbox Support Support Package for GigE Vision Hardware
 - MATLAB Support Package for Arduino Hardware
 
 Finally, users will need to download the following drivers to generate a connection between their computer system and an external hardware devices. In our case, we need to download two drivers to interface with the monochrome camera used in our system.
