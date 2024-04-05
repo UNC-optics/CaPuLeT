@@ -1,6 +1,6 @@
 # An open-source system for pupillometry and locomotor tracking in head-fixed mice
 
-Designed by members of the Pégard and Rodríguez-Romaguera Labs at the University of North Carolina at Chapel Hill, this locomotion wheel for head-fixed mice allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an additional monochrome camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attatched to a mounted rotary encoder.
+Designed by members of the Pégard and Rodríguez-Romaguera Labs at the University of North Carolina at Chapel Hill, this locomotion wheel for head-fixed mice allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on two sperate cameras, an infared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attatched to a mounted rotary encoder.
 
 
 ![Pupillometry System Labled (4_4_2024)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/b9ecf772-b775-42db-a923-65d1e1a13e8c)
@@ -753,7 +753,7 @@ Our MATLAB scripts are based on MATLAB R2022a, a previous version of the softwar
 - Image Acquisition Toolbox Support Support Package for GigE Vision Hardware
 - MATLAB Support Package for Arduino Hardware
 
-Finally, users will need to download the following drivers to generate a connection between their computer system and an external hardware devices. In our case, we need to download two drivers to interface with the monochrome camera used in our system.
+Finally, users will need to download the following drivers to generate a connection between their computer system and an external hardware devices. In our case, we need to download two drivers to interface with the additional camera used in our system.
 
 **Driver Requirements**:
 - USB3 Driver
