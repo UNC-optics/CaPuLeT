@@ -23,6 +23,8 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Avaliable and Custom Made Parts 
 
+![Shifted 4_2_2024 (2 Photon) v6](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/d03f2975-5b6f-41c6-aa95-ddcae8bd81b0)
+
 The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list contains a color coded key which provides an additional layer of support when building the system. 
 
 <table class="table table-bordered table-hover table-condensed">
