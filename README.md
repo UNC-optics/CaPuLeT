@@ -687,7 +687,7 @@ The following [component list](1-Pupillometry-Components-Table.pdf) details the 
 </tbody></table>
 
 
-This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the filetypes found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](5-Pupillometry-Wheel-Custom-Parts-Specifications.pdf). The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
+This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the file types found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](5-Pupillometry-Wheel-Custom-Parts-Specifications.pdf). The following [spreadsheet](3-Pupillometry-Wheel-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
 
 **Here is a list of the manufacturers we purchased materials from:** 
 - McMaster-Carr
@@ -718,10 +718,10 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 - GPIO Cable
 - Hirose Cable
 - Overhead Speaker
-- Ambiant Noise Fan
+- Ambient Noise Fan
 - Red LED Strips
 
-This following guide provides a step-by-step walkthrough for building and modifying each of required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
+This following guide provides a step-by-step walkthrough for building and modifying each of the required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
 
 ![Optical_Breadboard_Structure_Combined_Github](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/61942757-8339-4367-9151-58965546663c)
 
@@ -732,7 +732,7 @@ This following guide provides a step-by-step walkthrough for building and modify
 
 # Software Installation Guide and Dependencies
 
-Following this installation guide will ensure that your system will be able to run the set of MATLAB scripts and Arduino IDE sketches we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize componnets, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data aquisition steps are performed exclusively with MATLAB. 
+Following this installation guide will ensure that your system will be able to run the set of MATLAB scripts and Arduino IDE sketches we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize components, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data acquisition steps are performed exclusively with MATLAB. 
 
 **Software Requirements**:
 - MATLAB R2022a
@@ -751,11 +751,11 @@ Our MATLAB scripts are based on MATLAB R2022a, a previous version of the softwar
 - Data Acquisition Toolbox Support Package for National Instruments NI-DAQmx Devices
 - Image Acquisition Toolbox Support Package for GenICam Interface
 - Image Acquisition Toolbox Support Package OS Generic Video Interface
-- Image Acquisition Toolbox Support Package for Pont Grey Hardware
+- Image Acquisition Toolbox Support Package for Point Grey Hardware
 - Image Acquisition Toolbox Support Support Package for GigE Vision Hardware
 - MATLAB Support Package for Arduino Hardware
 
-Finally, users will need to download the following drivers to generate a connection between their computer system and an external hardware devices. In our case, we need to download two drivers to interface with the additional camera used in our system.
+Finally, users will need to download the following drivers to generate a connection between their computer system and an external hardware device. In our case, we need to download two drivers to interface with the additional camera used in our system.
 
 **Driver Requirements**:
 - USB3 Driver
