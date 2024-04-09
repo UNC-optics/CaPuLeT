@@ -1,6 +1,6 @@
 # An open-source system to integrate Calcium-imaging, Pupillometry, and Locomotion-estimated Tracking (CaPuLeT) in head-fixed mice
 
-Designed by members of the Pégard and Rodríguez-Romaguera Labs at the University of North Carolina at Chapel Hill, CaPuLeT allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attatched to a mounted rotary encoder.
+Designed by members of the Pégard and Rodríguez-Romaguera Labs at the University of North Carolina at Chapel Hill, CaPuLeT allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infrared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attached to a mounted rotary encoder.
 
 
 ![Pupillometry System Labled (4_4_2024)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/b9ecf772-b775-42db-a923-65d1e1a13e8c)
@@ -10,10 +10,10 @@ Designed by members of the Pégard and Rodríguez-Romaguera Labs at the Universi
 **Behavioral Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
 - Additional Camera → Body Kinematics (Body and Tail Movement)
-- Rotary Encoder → Locotion (Speed and Acceleration)
+- Rotary Encoder → Locomotion (Speed and Acceleration)
 
 **Custom Arduino Printed Circuit Board Shield**:
-Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with build in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
+Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 **Required Software and Applications**:
 - MATLAB R2022a 
@@ -21,7 +21,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 - Spinnaker SDK (Spinview GUI)
 - DeepLabCuts
 
-# Commercially Avaliable and Custom Made Parts 
+# Commercially Available and Custom Made Parts 
 
 ![Shifted 4_2_2024 (2 Photon) v6](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/d03f2975-5b6f-41c6-aa95-ddcae8bd81b0)
 
