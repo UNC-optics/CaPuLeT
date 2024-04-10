@@ -22,7 +22,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 # Commercially Available and Custom Made Parts 
 
-https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png
+![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png)
 
 The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list contains a color coded key which provides an additional layer of support when building the system. 
 
@@ -731,12 +731,11 @@ This [document](4-Pupillometry-Wheel-Custom-Parts-Table.pdf) outlines the design
 
 This following guide provides a step-by-step walkthrough for building and modifying each of the required components. This guide includes diagrams and explanations for assembling each of the final components of the build. 
 
-![Optical_Breadboard_Structure_Combined_Github](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/61942757-8339-4367-9151-58965546663c)
+![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_Breadboard_Structure.png)
 
-![Pupillometry System Updated Numbering (White Bakcground)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/088d372c-a982-490e-b6a5-5d654ec7a3b0)
 
-![Pupillometry System Original Numbering (White Bakcground)](https://github.com/jovantormesvaquerano/PeRo-Lab-Pupillometry-Wheel/assets/135740829/ed6f7c79-b517-437e-9079-d520f9988618)
-
+![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_system_numbered_2.png)
+![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_system_numbered_1.png)
 
 # Software Installation Guide and Dependencies
 
