@@ -24,7 +24,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png)
 
-The following [component list](1-Pupillometry-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list contains a color coded key which provides an additional layer of support when building the system. 
+The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/bc7fc1f5a41c4e46813cc2c18fc82c2405dce918/1-CaPuLeT-Components-Table.docx) details the manufacturer, part number, and quantity of each item required. This [version](2-Color-Coded-Pupillometry-Components-Table.pdf) of the component list contains a color coded key which provides an additional layer of support when building the system. 
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Part Number</th>
