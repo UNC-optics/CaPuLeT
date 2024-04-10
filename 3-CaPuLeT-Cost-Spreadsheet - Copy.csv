@@ -1,0 +1,74 @@
+Part Number,Distributor,Part Name,Distributer Part Number,Qty Needed,Unit Price,Total Price
+1,McMaster-Carr,5 mm Linear Motion Shaft,6112K37,1,$10.98 ,$10.98 
+2,McMaster-Carr,Clear Impact-Resistant Polycarbonate Film,85585K15,1,$8.35 ,$8.35 
+3,McMaster-Carr,Female Threaded Round Standoff,93330A541,10,$2.13 ,$21.30 
+4,McMaster-Carr,"Socket Head Screw M3 x 0.5 mm Thread, 6 mm Long",91290A111,1 (Pack of 100),$10.91 ,$10.91 
+5,Polulu,Aluminum Mounting Hub for 5mm Shaft,1203,1 (Pack of 2),$18.90 ,$18.90 
+6,Polulu,"Machine Screw: #4-40, 1/2? Length, Phillips",1962,1 (Pack of 25),$1.39 ,$1.39 
+7,Thorlabs,0.75 Inch Post,TR075,1,$5.38 ,$5.38 
+8,Thorlabs,2 Inch Post,TR2,2,$5.90 ,$11.80 
+9,Thorlabs,3 Inch Post,TR3,2,$6.15 ,$12.30 
+10,Thorlabs,"4 Inch Post, 5 Pack",TR4-P5,1 (Pack of 5),$30.00 ,$30.00 
+11,Thorlabs,6 Inch Post,TR6,2,$8.09 ,$16.18 
+12,Thorlabs,8 Inch Post,TR8,2,$9.69 ,$19.38 
+13,Thorlabs,10 Inch Post,TR10,2,$10.76 ,$21.52 
+14,Thorlabs,2 Inch Post Holder,PH2,1,$8.95 ,$8.95 
+15,Thorlabs,3 Inch Post Holder,PH3,4,$9.62 ,$38.48 
+16,Thorlabs,6 Inch Post Holder,PH6,1,$14.70 ,$14.70 
+17,Thorlabs,Right Angle End Clamp,RA180,4,$12.34 ,$49.36 
+18,Thorlabs,Rotating Clamp,SWC,1,$26.91 ,$26.91 
+19,Thorlabs,Right Angle Post Clamp,RA90TR,1,$17.82 ,$17.82 
+20,Thorlabs,Mini Optical Post,MS3R,1,$9.09 ,$9.09 
+21,Thorlabs,"Aluminum Breadboard 8"" x 10"" x 1/2"", 1/4""-20 Taps",MB810 ,1,$131.60 ,$131.60 
+22,Thorlabs,"Aluminum Breadboard 12"" x 18"" x 1/2"", 1/4""-20 Taps",MB1218,1,$214.65 ,$214.65 
+23,Thorlabs,"Breadboard Lifting Handles, Reinforced Polymer ",BBH1,2 (Pack of 2),$17.01 ,$17.01 
+24,Thorlabs,"4-40 Stainless Steel Cap Screw, 3/8"" Long",SH4S038,1 (Pack of 50),$9.31 ,$9.31 
+25,Thorlabs,"Spring-Loaded 3/16"" Hex-Locking Thumbscrew, 1/4""-20 Thread",TS25H,2,$2.87 ,$5.74 
+26,Thorlabs,"1/4""-20 Stainless Steel Setscrew, 5/8"" Long (Adaptor)",SS25S0625,1 (Pack of 25),$6.97 ,$6.97 
+27,Thorlabs,"1/4"" Washer, M6 Compatible, Stainless Steel",W25S050,1 (Pack of 100),$10.20 ,$10.20 
+28,Thorlabs,"1/4""-20 Stainless Steel Nut",N25S0440,1 (Pack of 50),$6.43 ,$6.43 
+29,SparkFun,Rotary Encoder - 1024 P/R (Quadrature),E6B2-CWZ3E (E69-C06B),1,$48.50 ,$48.50 
+30,Digikey,Speaker 80hm 5 w top port 104db,2104-SP500208-3-ND,1,$6.79 ,$6.79 
+31,Amazon,5 mm Steel Ball Bearing,B00GGQ1NVC / SMR115-ZZ #5 LD,2,$10.58 ,$21.16 
+32,Amazon,S-mount lens with IR filter (Xenocam),SPM16214000924,1,$19.99 ,$19.99 
+33,Amazon,USB 2.0 Type-A Male to Mini-B 5pin Male Cable (Monoprice),B002KL8J8W,1,$4.78 ,$4.78 
+34,Amazon,0.33-Inch Varifocal lens 2.8-12mm F1.3 Auto Iris (Computar) ,B002HRE2ZS / TG4Z2813FCS-IR ,1 (Used),$19.99 ,$19.99 
+35,Amazon,"3 mm UV light, 395-400nm (Chanzon)",100F3T-YT-WH-PU,1 (Pack of 100),$6.99 ,$6.99 
+36,Amazon,"5 mm super-bright IR LED, 940nm (Adafruit)",ADA388 / B00ULB0U44,1 (Pack of 25),$10.98 ,$10.98 
+37,Amazon,24 AWG 50 feet Electrical Wire (Fermerry) ,B089CX3FVV ,1 ,$26.99 ,$26.99 
+38,Amazon,Arduino Mega 2560 Rev3 Microcontroller Board (Arduino),A000067 / B0046AMGW0,1,$48.99 ,$48.99 
+39,Amazon,USB 2.0 Cable Type A/B (Arduino),M000006 / B013EOQUAW,1,$7.00 ,$7.00 
+40,Amazon,2.54mm Pitch Single Row Pin Header Strip (HiLetgo)  ,B07R5QDL8D ,1 ,$5.49 ,$5.49 
+41,Amazon,PCB Mount Screw Terminal Block Connectors (Tnisesm),CATN-T03B,1,$8.99 ,$8.99 
+42,Amazon,2N2222 NPN TO-92 Power Transistors (Ardest) ,B07222XY81 ,1 (Pack of 100) ,$10.99 ,$10.99 
+43,Amazon,Real Time Clock Module DS3231 AT24C32 IIC (Adeept) ,2pcsDS3231 / B097PMNMQZ ,1 (Pack of 2) ,$7.99 ,$7.99 
+44,Amazon,3V Lithium Battery (Junpower) ,CR2032 / B07LGL9LQ1 ,1 (Pack of 10) ,$4.99 ,$4.99 
+45,Amazon,Heat Shrink Tubing (Electfun),ELECFUN / B08SQBPVJB,1,$14.99 ,$14.99 
+46,Amazon,Black Adhesive contact paper (Yancorp),B082CPSVPW,1,$6.98 ,$6.98 
+47,Amazon,IPS Weld-On 3 Acrylic Plastic Cement (Weld-On),?TLLPN-21847771,1,$28.55 ,$28.55 
+48,Amazon,12V 5A DC Power Cable Male Female Connector (Centro Power),B07C7VSRBG,1 (Pack of 10),$9.19 ,$9.19 
+49,Amazon,12V DC Power Connector Barrel Adaptor (Centro Power),B07C61434H,1 (Pack of 10),$7.99 ,$7.99 
+50,Amazon,"12V Red LED Flexible Strip Ribbon Light (Alitrove, 16.4 feet)",B07MXXDWDM,1,$13.99 ,$13.99 
+51,Amazon,Power Strip Surge Protector 10Ft (Mifaso Power) ,B0BTPB5Z4W ,1 ,$19.99 ,$19.99 
+52,Amazon,Anti Vibration Pads (Functional Necessities) ,B08NWRFLDC ,1 (Pack of 4) ,$14.99 ,$14.99 
+53,Amazon,"1"" x 12"" x 12"" Sound Absorption Wall Panels (Xin & Log) ",B078VVJTXQ ,1 (Pack of 24) ,$17.99 ,$17.99 
+54,Amazon,4 inch Zip Ties with 18 lb Tensile Strength ,B0BC1VH4XB ,1 (Pack of 200) ,$3.99 ,$3.99 
+55,Amazon,3M Scotch Super 33+ Electrical Tape - 3/4 in x 52 ft,B0000AZ9HG,1,$4.98 ,$4.98 
+56,Amazon,Hirose 4 Pin Female HR10A-7P-4S to Flying Leads Power Cable (Alvin’s Cables),N/A,1,$25.99 ,$25.99 
+57,Custom Machined Parts,Rotary Encoder Adaptor (Aluminum 304) ,CNC Machining (eMachineShop) ,6 (Bulk Purchase),$28.43 ,$170.62 
+58,Custom Machined Parts,Head Plate Holder (Aluminum 304) ,CNC Machining (eMachineShop) ,12 (Bulk Purchase),$30.20 ,$362.44 
+59,Custom Machined Parts,Head Plate (Top Piece) (Aluminum 304) ,CNC Machining (eMachineShop) ,6 (Bulk Purchase),$39.14 ,$234.85 
+60,Custom Machined Parts,Head Plate (Bottom Piece) (Aluminum 304) ,CNC Machining (eMachineShop) ,6 (Bulk Purchase),$51.01 ,$306.04 
+61,Custom Machined Parts,Head rings (Aluminum 6061-T6)  ,CNC Machining (eMachineShop) ,100 (Bulk Purchase),$5.16 ,$258.22 
+62,Custom Machined Parts,Rotary Wheel (1/8 Thick Clear Cast Acrylic) ,Laser Cutting (Ponoko) ,2 ,$61.06 ,$61.06 
+63,Custom Machined Parts,Rotary Wheel Curved Surface (Clear Cast Acrylic) ,Laser Cutting / Manual Cutting ,1 ,$0.00 ,$0.00 
+64,Custom Machined Parts,Rotary Wheel Curved Surface (Black Adhesive Contact Paper) ,Laser Cutting / Manual Cutting ,1 ,$0.00 ,$0.00 
+65,Custom Machined Parts,Waste Management Ramp (Resin) ,3-D Printing (Craftcloud3d) ,1 ,$57.76 ,$57.76 
+66,Custom Machined Parts,Arduino Mega 2560 Rev3 Protective Case (Resin) ,3-D Printing (Craftcloud3d),1,$16.06 ,$16.06 
+67,Custom Machined Parts,Arduino Mega 2560 Rev3 Shield SMT PCB,PCB Manufacturing (JLC PCB),1,X,X
+68,FLIR,Firefly S Camera,FFY-U3-16S2M-S,1,$234.00 ,$234.00 
+69,FLIR,Tripod Adapter for Firefly S Camera ,ACC-01-0017 ,1 ,$32.10 ,$32.10 
+70,FLIR,USB 3.1 Locking Cable,ACC-01-2300,1,$24.60 ,$24.60 
+71,FLIR,GPIO cable w/ 6 pins,ACC-01-3015,1,$9.60 ,$9.60 
+72,The Imaging Source,USB 2.0 CMOS Monochrome Camera ,DMK-22BUC03 ,1 ,$234.00 ,$234.00 
+73,SYSRACKS,"15U 35"" Depth Under Desk Sound Proof Server Cabinet",SP15.900,1,"$1,122.00 ","$1,122.00 "
