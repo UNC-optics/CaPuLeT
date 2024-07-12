@@ -3,8 +3,7 @@
 Designed by members of the Pégard and Rodríguez-Romaguera Labs at the University of North Carolina at Chapel Hill, CaPuLeT allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infrared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attached to a mounted rotary encoder.
 
 
-![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_labled.jpg)
-
+![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png)
 
 **Behavioral Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
@@ -21,8 +20,6 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 - DeepLabCuts
 
 # Commercially Available and Custom Made Parts 
-
-![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png)
 
 The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/1-CaPuLeT-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required. This [version](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/2-CaPuLeT-Color-Coded-Components-Table.pdf) of the component list contains a color coded key which provides an additional layer of support when building the system. 
 
