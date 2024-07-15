@@ -286,7 +286,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">29</td>
-<td>SparkFun</td>
+<td>Omron</td>
 <td>Rotary Encoder - 1024 P/R (Quadrature)</td>
 <td>E6B2-CWZ3E (E69-C06B)</td>
 <td>1</td>
@@ -295,7 +295,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">30</td>
-<td>Digikey</td>
+<td>DB Unlimited</td>
 <td>Speaker 80hm 5 w top port 104db</td>
 <td>2104-SP500208-3-ND</td>
 <td>1</td>
@@ -304,43 +304,43 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">31</td>
-<td>Digikey</td>
+<td>SullinsCorp</td>
 <td>2.54mm Pitch Single Row Pin Header Strip</td>
-<td>S1012EC-40-ND</td>
+<td>PREC040SAAN-RC</td>
 <td>3</td>
 <td>$1.53</td>
 <td>$1.53</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td>Digikey</td>
+<td>Ardest</td>
 <td>2N2222 NPN TO-92 Power Transistors</td>
-<td>2721-2N2222A-ND</td>
+<td>2N2222</td>
 <td>6</td>
 <td>$1.44</td>
 <td>$1.44</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td>Amazon</td>
+<td>Boca Bearings</td>
 <td>5 mm Steel Ball Bearing</td>
-<td>B00GGQ1NVC / SMR115-ZZ #5 LD</td>
+<td>SMR115-ZZC #5 LD</td>
 <td>2</td>
 <td>$10.58 </td>
 <td>$21.16 </td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td>Amazon</td>
+<td>Xenocam</td>
 <td>9-22mm 1/3" F1.4 M12-mount lens with IR filter</td>
-<td>B06XFXV6PP / SPM16214000924</td>
+<td>XC0922LENS</td>
 <td>1</td>
 <td>$19.99 </td>
 <td>$19.99 </td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td>Amazon</td>
+<td>Monoprice</td>
 <td>USB 2.0 Type-A Male to Mini-B 5pin Male Cable (Monoprice)</td>
 <td>B002KL8J8W</td>
 <td>1</td>
@@ -349,7 +349,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">36</td>
-<td>Amazon</td>
+<td>Computar</td>
 <td>0.33-Inch Varifocal lens 2.8-12mm F1.3 Auto Iris (Computar)</td>
 <td>B002HRE2ZS / TG4Z2813FCS-IR</td>
 <td>1(Used)</td>
@@ -358,7 +358,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">37</td>
-<td>Amazon</td>
+<td>Chanzon</td>
 <td>3 mm UV light, 395-400nm (Chanzon)</td>
 <td>100F3T-YT-WH-PU</td>
 <td>1 (Pack of 100)</td>
@@ -367,7 +367,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">38</td>
-<td>Amazon</td>
+<td>Adafruit</td>
 <td>5 mm super-bright IR LED, 940nm (Adafruit)</td>
 <td>ADA388 / B00ULB0U44</td>
 <td>1 (Pack of 25)</td>
@@ -376,7 +376,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">39</td>
-<td>Amazon</td>
+<td>Fermerry</td>
 <td>24 AWG 50 feet Electrical Wire (Fermerry)</td>
 <td>B089CX3FVV</td>
 <td>1</td>
@@ -385,7 +385,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">40</td>
-<td>Amazon</td>
+<td>Arduino</td>
 <td>Arduino Mega 2560 Rev3 Microcontroller Board (Arduino)</td>
 <td>A000067 / B0046AMGW0</td>
 <td>1</td>
@@ -394,7 +394,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">41</td>
-<td>Amazon</td>
+<td>Arduino</td>
 <td>USB 2.0 Cable Type A/B (Arduino)</td>
 <td>M000006 / B013EOQUAW</td>
 <td>1</td>
@@ -403,7 +403,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">42</td>
-<td>Amazon</td>
+<td>Tnisesm</td>
 <td>PCB Mount Screw Terminal Block Connectors (Tnisesm)</td>
 <td>CATN-T03B</td>
 <td>1</td>
@@ -412,7 +412,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">43</td>
-<td>Amazon</td>
+<td>Adeep</td>
 <td>Real Time Clock Module DS3231 AT24C32 IIC (Adeept)</td>
 <td>2pcsDS3231 / B097PMNMQZ</td>
 <td>1 (Pack of 2)</td>
@@ -421,7 +421,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">44</td>
-<td>Amazon</td>
+<td>LiCB</td>
 <td>3V Lithium Battery (Junpower)</td>
 <td>CR2032 / B07LGL9LQ1</td>
 <td>1 (Pack of 10)</td>
@@ -430,16 +430,16 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">45</td>
-<td>Amazon</td>
+<td>ELECFUN</td>
 <td>Heat Shrink Tubing (Electfun)</td>
-<td>ELECFUN / B08SQBPVJB</td>
+<td>RSG-KIT350</td>
 <td>1</td>
 <td>$14.99 </td>
 <td>$14.99 </td>
 </tr>
 <tr>
 <td align="right">46</td>
-<td>Amazon</td>
+<td>Yancorp</td>
 <td>Black Adhesive contact paper (Yancorp)</td>
 <td>B082CPSVPW</td>
 <td>1</td>
@@ -448,7 +448,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">47</td>
-<td>Amazon</td>
+<td>Weld-On</td>
 <td>IPS Weld-On 3 Acrylic Plastic Cement (Weld-On)</td>
 <td>?TLLPN-21847771</td>
 <td>1</td>
@@ -457,16 +457,16 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">48</td>
-<td>Amazon</td>
+<td>CENTROPOWER</td>
 <td>12V 5A DC Power Cable Male Female Connector (Centro Power)</td>
-<td>B07C7VSRBG</td>
+<td>DCCORD-MF</td>
 <td>1 (Pack of 10)</td>
 <td>$9.19 </td>
 <td>$9.19 </td>
 </tr>
 <tr>
 <td align="right">49</td>
-<td>Amazon</td>
+<td>CENTROPOWER</td>
 <td>12V DC Power Connector Barrel Adaptor (Centro Power)</td>
 <td>B07C61434H</td>
 <td>1 (Pack of 10)</td>
@@ -475,54 +475,54 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 </tr>
 <tr>
 <td align="right">50</td>
-<td>Amazon</td>
+<td>ALITOVE</td>
 <td>12V Red LED Flexible Strip Ribbon Light (Alitrove, 16.4 feet)</td>
-<td>B07MXXDWDM</td>
+<td>AL5RWPBK12V</td>
 <td>1</td>
 <td>$13.99 </td>
 <td>$13.99 </td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td>Amazon</td>
+<td>Mifasopower</td>
 <td>Power Strip Surge Protector 10Ft (Mifaso Power)</td>
-<td>B0BTPB5Z4W</td>
+<td>MFS311T</td>
 <td>1</td>
 <td>$19.99 </td>
 <td>$19.99 </td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td>Amazon</td>
+<td>Sumato Stuff</td>
 <td>Anti Vibration Pads (Functional Necessities)</td>
-<td>B08NWRFLDC</td>
+<td>SSHI00003</td>
 <td>1 (Pack of 4)</td>
 <td>$14.99 </td>
 <td>$14.99 </td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td>Amazon</td>
+<td>Focusound</td>
 <td>1&quot; x 12&quot; x 12&quot; Sound Absorption Wall Panels (Xin &amp; Log)</td>
-<td>B078VVJTXQ</td>
+<td>FS0302A</td>
 <td>1 (Pack of 24)</td>
 <td>$17.99 </td>
 <td>$17.99 </td>
 </tr>
 <tr>
 <td align="right">54</td>
-<td>Amazon</td>
+<td>TANTTI</td>
 <td>4 inch Zip Ties with 18 lb Tensile Strength</td>
-<td>B0BC1VH4XB</td>
+<td>604477847283</td>
 <td>1 (Pack of 200)</td>
 <td>$3.99 </td>
 <td>$3.99 </td>
 </tr>
 <tr>
 <td align="right">55</td>
-<td>Amazon</td>
+<td>3M</td>
 <td>3M Scotch Super 33+ Electrical Tape - 3/4 in x 52 ft</td>
-<td>B0000AZ9HG</td>
+<td>MMM06133</td>
 <td>1</td>
 <td>$4.98 </td>
 <td>$4.98 </td>
@@ -531,7 +531,7 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 <td align="right">56</td>
 <td>Amazon</td>
 <td>Hirose 4 Pin Female HR10A-7P-4S to Flying Leads Power Cable (Alvin’s Cables)</td>
-<td>N/A</td>
+<td>HR10A-7P-4S(73)</td>
 <td>1</td>
 <td>$25.99 </td>
 <td>$25.99</td>
