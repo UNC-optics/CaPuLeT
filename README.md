@@ -772,7 +772,7 @@ The following MATLAB graphic user interface allows users to trigger and manage t
 
 # Contact
 
-For further information and requests for resources, contact Jovan Tormes Vaquerano (jovantv@unc.edu).
+Further information and requests for resources should be directed to and will be fulfilled by the lead contact and corresponding author, Jose Rodriguez-Romaguera (jose_rodriguezromaguera@med.unc.edu). Example pupillometric and locomotion data is available upon request to the technical contact and corresponding author, Nicolas C. Pégard (pegard@unc.edu).
 
 # Citation 
 
