@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"A1";"Arduino_Mega2560_R3_Shield_Reduced_Hole";1;"Arduino_Mega2560_R3_Shield";;;
+2;"Real_Time_Clock";"PinHeader_1x04_P2.00mm_Vertical";1;"Conn_01x04_Pin";;;
+3;"V_LED4,V_LED6,V_LED1,V_LED2,V_LED3,V_LED5";"LED_0805_2012Metric";6;"LED";;;
+4;"UV_Leds/IR_LEDs";"TerminalBlock_Phoenix_MKDS-1,5-5_1x05_P5.00mm_Horizontal";1;"Screw_Terminal_01x05";;;
+5;"Rotary_Encoder1,Rotary_Encoder2,Other";"TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal";3;"Screw_Terminal_01x04";;;
+6;"R1,R6,R2,R4";"R_1206_3216Metric";4;"1000";;;
+7;"V_LED_R3,V_LED_R2,V_LED_R4,R3,R5,R7,V_LED_R1,V_LED_R5,V_LED_R6,R8";"R_1206_3216Metric";10;"300";;;
+8;"Q3,Q2,Q4,Q1";"SIPAK_Vertical";4;"2N2219";;;
+9;"Cameras/DAQ/Opto";"TerminalBlock_Phoenix_MKDS-1,5-6_1x06_P5.00mm_Horizontal";1;"Screw_Terminal_01x06";;;
