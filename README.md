@@ -765,8 +765,9 @@ Finally, users will need to download the following drivers to generate a connect
 
 **Driver Requirements**:
 - USB3 Driver
-- DMK 22BUC03 Driver
-- IC Matlab Plugin for Matlab 
+- DMK 22BUC03 Driver (https://www.oemcameras.com/dmk-22buc03.htm)
+- Spinnaker SDK USB3 Vision Cameras Driver (https://www.flir.com/products/spinnaker-sdk/)
+- IC Matlab Plugin for Matlab (Version 3.4.0.58) (https://www.theimagingsource.com/en-us/support/download/icmatlabr2013b-3.4.0.58/)
 
 # Graphic User Interface (GUI)
 
