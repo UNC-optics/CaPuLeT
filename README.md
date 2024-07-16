@@ -19,7 +19,7 @@ Our system is driven and controlled by an Arduino Mega 2560 microcontroller boar
 - MATLAB R2022a 
 - Arduino IDE 
 - Spinnaker SDK (Spinview GUI)
-- DeepLabCuts
+- DeepLabCuts (https://github.com/DeepLabCut/DeepLabCut)
 
 # Commercially Available and Custom Made Parts 
 
