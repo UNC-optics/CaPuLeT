@@ -772,6 +772,8 @@ Finally, users will need to download the following drivers to generate a connect
 
 The following MATLAB graphic user interface allows users to trigger and manage the cameras and LEDs driven by the custom-made Arduino shield. 
 
+![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
+
 # Contact
 
 Further information and requests for resources should be directed to and will be fulfilled by the lead contact and corresponding author, Jose Rodriguez-Romaguera (jose_rodriguezromaguera@med.unc.edu). Example pupillometric and locomotion data is available upon request to the technical contact and corresponding author, Nicolas C. Pégard (pegard@unc.edu).
