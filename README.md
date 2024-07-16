@@ -10,6 +10,8 @@ Designed by members of the Pégard and Rodríguez-Romaguera Labs at the Universi
 - Additional Camera → Body Kinematics (Body and Tail Movement)
 - Rotary Encoder → Locomotion (Speed and Acceleration)
 
+![](https://github.com/UNC-optics/CaPuLeT/blob/bcdb6738ddb34ee674eaceee100d047514b1375d/CaPuLeT_PCB_labeled.png)
+
 **Custom Arduino Printed Circuit Board Shield**:
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
