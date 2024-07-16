@@ -16,9 +16,9 @@ Designed by members of the Pégard and Rodríguez-Romaguera Labs at the Universi
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 **Required Software and Applications**:
-- MATLAB R2022a 
-- Arduino IDE 
-- Spinnaker SDK (Spinview GUI)
+- MATLAB R2022a (https://www.mathworks.com/products/new_products/release2022a.html)
+- Arduino IDE (https://www.arduino.cc/en/software)
+- Spinnaker SDK (https://www.flir.com/products/spinnaker-sdk/)
 - DeepLabCuts (https://github.com/DeepLabCut/DeepLabCut)
 
 # Commercially Available and Custom Made Parts 
