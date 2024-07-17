@@ -1,9 +1,14 @@
 # An open-source system to integrate Calcium-imaging, Pupillometry, and Locomotion-estimated Tracking (CaPuLeT) in head-fixed mice
 
-Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, CaPuLeT allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infrared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attached to a mounted rotary encoder.
-
+Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **CaPuLeT** allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infrared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attached to a mounted rotary encoder.
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png)
+
+# Graphic User Interface (GUI)
+
+The following MATLAB graphic user interface allows users to trigger and manage the cameras and LEDs driven by the custom-made Arduino shield. 
+
+![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
 
 **Behavioral Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
@@ -11,6 +16,9 @@ Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodrí
 - Rotary Encoder → Locomotion (Speed and Acceleration)
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/bcdb6738ddb34ee674eaceee100d047514b1375d/CaPuLeT_PCB_labeled.png)
+
+**Custom Arduino Printed Circuit Board Shield**:
+Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 **Custom Arduino Printed Circuit Board Shield**:
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
@@ -768,12 +776,6 @@ Finally, users will need to download the following drivers to generate a connect
 - [DMK 22BUC03 Driver](https://www.oemcameras.com/dmk-22buc03.htm)
 - [Spinnaker SDK USB3 Vision Cameras Driver](https://www.flir.com/products/spinnaker-sdk/)
 - [IC Matlab Plugin for Matlab (Version 3.4.0.58)](https://www.theimagingsource.com/en-us/support/download/icmatlabr2013b-3.4.0.58/)
-
-# Graphic User Interface (GUI)
-
-The following MATLAB graphic user interface allows users to trigger and manage the cameras and LEDs driven by the custom-made Arduino shield. 
-
-![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
 
 # Contact
 
