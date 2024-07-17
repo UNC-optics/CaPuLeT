@@ -16,10 +16,10 @@ Designed by members of the Pégard and Rodríguez-Romaguera Labs at the Universi
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 **Required Software and Applications**:
-- MATLAB R2022a (https://www.mathworks.com/products/new_products/release2022a.html)
-- Arduino IDE (https://www.arduino.cc/en/software)
-- Spinnaker SDK (https://www.flir.com/products/spinnaker-sdk/)
-- DeepLabCuts (https://github.com/DeepLabCut/DeepLabCut)
+- [MATLAB R2022a](https://www.mathworks.com/products/new_products/release2022a.html)
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Spinnaker SDK](https://www.flir.com/products/spinnaker-sdk/)
+- [DeepLabCuts](https://github.com/DeepLabCut/DeepLabCut)
 
 # Commercially Available and Custom Made Parts 
 
@@ -765,9 +765,9 @@ Finally, users will need to download the following drivers to generate a connect
 
 **Driver Requirements**:
 - USB3 Driver
-- DMK 22BUC03 Driver (https://www.oemcameras.com/dmk-22buc03.htm)
-- Spinnaker SDK USB3 Vision Cameras Driver (https://www.flir.com/products/spinnaker-sdk/)
-- IC Matlab Plugin for Matlab (Version 3.4.0.58) (https://www.theimagingsource.com/en-us/support/download/icmatlabr2013b-3.4.0.58/)
+- [DMK 22BUC03 Driver](https://www.oemcameras.com/dmk-22buc03.htm)
+- [Spinnaker SDK USB3 Vision Cameras Driver](https://www.flir.com/products/spinnaker-sdk/)
+- [IC Matlab Plugin for Matlab (Version 3.4.0.58)](https://www.theimagingsource.com/en-us/support/download/icmatlabr2013b-3.4.0.58/)
 
 # Graphic User Interface (GUI)
 
