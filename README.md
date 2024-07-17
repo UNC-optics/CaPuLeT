@@ -16,7 +16,7 @@ The **CaPuLeT** MATLAB graphical user interface (GUI) allows users to trigger an
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
 
-**Custom Arduino Printed Circuit Board Shield**:
+# Custom Arduino Printed Circuit Board Shield:
 Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/bcdb6738ddb34ee674eaceee100d047514b1375d/CaPuLeT_PCB_labeled.png)
