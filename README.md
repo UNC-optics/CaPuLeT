@@ -8,13 +8,11 @@ Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodrí
 
 The **CaPuLeT** MATLAB graphical user interface (GUI) allows users to trigger and manage the cameras and LEDs driven by the Arduino microcontroller with the custom-made shield. Within **CaPuLeT**, users can track locomotion, pupil-size, and  *in vivo* calcium imaging data in real-time. 
 
-**Behavioral Data Collected**:
+**Behavioral and Imaging Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
 - Additional Camera → Body Kinematics (Body and Tail Movement)
 - Rotary Encoder → Locomotion (Speed and Acceleration)
-
-**Imaging Data Collected**:
-- Multi-Photon Microscope → Calcium Activity (Intracellular Calcium Concentration)
+- Multi-Photon Microscope → Neuronal Activity (Intracellular Calcium Concentration)
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
 
