@@ -17,15 +17,10 @@ The **CaPuLeT** MATLAB graphical user interface (GUI) allows users to trigger an
 ![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
 
 # Custom Arduino Printed Circuit Board Shield:
-Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
+The head-fixation wheel system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) Arduino shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. The Arduino shield PCB allows users to interface with each of the components of the **CaPuLeT** GUI. 
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/bcdb6738ddb34ee674eaceee100d047514b1375d/CaPuLeT_PCB_labeled.png)
 
-**Required Software and Applications**:
-- [MATLAB R2022a](https://www.mathworks.com/products/new_products/release2022a.html)
-- [Arduino IDE](https://www.arduino.cc/en/software)
-- [Spinnaker SDK](https://www.flir.com/products/spinnaker-sdk/)
-- [DeepLabCuts](https://github.com/DeepLabCut/DeepLabCut)
 
 # Commercially Available and Custom Made Parts 
 
@@ -745,10 +740,11 @@ This following [guide](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2f
 
 Following this installation guide will ensure that your system will be able to run the set of MATLAB scripts and Arduino IDE sketches we have provided. Our system is run primarily on MATLAB's interface. While other software is used to first initialize components, such as Arduino IDE for the rotary encoder and Spinnaker SDK for the cameras, the subsequent input signals and data acquisition steps are performed exclusively with MATLAB. 
 
-**Software Requirements**:
-- MATLAB R2022a
-- Arduino IDE
-- Spinnaker SDK (Spinview GUI)
+**Required Software and Applications**:
+- [MATLAB R2022a](https://www.mathworks.com/products/new_products/release2022a.html)
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Spinnaker SDK](https://www.flir.com/products/spinnaker-sdk/)
+- [DeepLabCuts](https://github.com/DeepLabCut/DeepLabCut)
   
 Our MATLAB scripts are based on MATLAB R2022a, a previous version of the software application. Running our scripts on a more recent version of the application will result in a number of errors. After downloading MATLAB R2022a, you will need to download a number of toolboxes and add-ons. 
 
@@ -774,6 +770,9 @@ Finally, users will need to download the following drivers to generate a connect
 - [Spinnaker SDK USB3 Vision Cameras Driver](https://www.flir.com/products/spinnaker-sdk/)
 - [IC Matlab Plugin for Matlab (Version 3.4.0.58)](https://www.theimagingsource.com/en-us/support/download/icmatlabr2013b-3.4.0.58/)
 
+**Library Requirements**:
+- [DS3231 Library](https://github.com/NorthernWidget/DS3231)
+  
 # Contact
 
 Further information and requests for resources should be directed to and will be fulfilled by the lead contact and corresponding author, Jose Rodriguez-Romaguera (jose_rodriguezromaguera@med.unc.edu). Example pupillometric and locomotion data is available upon request to the technical contact and corresponding author, Nicolas C. Pégard (pegard@unc.edu).
