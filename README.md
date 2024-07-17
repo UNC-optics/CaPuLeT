@@ -13,15 +13,15 @@ The **CaPuLeT** MATLAB graphical user interface (GUI) allows users to trigger an
 - Additional Camera → Body Kinematics (Body and Tail Movement)
 - Rotary Encoder → Locomotion (Speed and Acceleration)
 
+**Imaging Data Collected**:
+- Multi-Photon Microscope → Calcium Activity (Intracellular Calcium Concentration)
+
 ![](https://github.com/UNC-optics/CaPuLeT/blob/e6338d14ee0252b41607466175a441866b6118d9/CaPuLeT_GUI.jpg)
 
+**Custom Arduino Printed Circuit Board Shield**:
+Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
+
 ![](https://github.com/UNC-optics/CaPuLeT/blob/bcdb6738ddb34ee674eaceee100d047514b1375d/CaPuLeT_PCB_labeled.png)
-
-**Custom Arduino Printed Circuit Board Shield**:
-Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
-
-**Custom Arduino Printed Circuit Board Shield**:
-Our system is driven and controlled by an Arduino Mega 2560 microcontroller board, with a custom printed circuit board (PCB) shield with built-in resistance, interactive feedback LEDs, real-time clock compatibility, and screw hole terminals. The PCB shield expands the capabilities of the microcontroller board and allows for greater stability than a conventional solderless circuit board. 
 
 **Required Software and Applications**:
 - [MATLAB R2022a](https://www.mathworks.com/products/new_products/release2022a.html)
@@ -704,6 +704,9 @@ The following [component list](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13
 
 This [document](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/4-CaPuLeT-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the file types found within this repository that can be used to replicate the system. More details regarding the specifications of the custom parts can be found [here](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/5-CaPuLeT-Custom-Parts-Specifications.pdf). The following [spreadsheet](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/3-CaPuLeT-Cost-Spreadsheet.xlsx) outlines the total cost of the system.  
 
+![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_system_numbered_2.png)
+![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_system_numbered_1.png)
+
 **Here is a list of the manufacturers we purchased materials from:** 
 - McMaster-Carr
 - Pololu
@@ -739,10 +742,6 @@ This [document](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db
 This following [guide](https://github.com/UNC-optics/CaPuLeT/blob/b9dc13ef048e2fede86db514f3f39af26186ab3a/6-CaPuLeT-Step-by-Step-Guide.pdf) provides a step-by-step walkthrough for building and modifying each of the required components. This document includes diagrams and explanations for assembling each of the final components of the build. 
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_Breadboard_Structure.png)
-
-
-![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_system_numbered_2.png)
-![](https://github.com/UNC-optics/CaPuLeT/blob/b2931c75089043ed1f3a4fcd5d3362348e77d085/CaPuLeT_system_numbered_1.png)
 
 # Software Installation Guide and Dependencies
 
