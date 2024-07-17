@@ -6,7 +6,7 @@ Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodrí
 
 # Graphic User Interface (GUI)
 
-The **CaPuLeT** MATLAB graphical user interface (GUI) allows users to trigger and manage the cameras and LEDs driven by the Arduino microcontroller with the custom-made shield. Within **CaPuLeT**, users can track locomotion, pupil-size, and  *in vivo* calcium imaging data in real-time. 
+The **CaPuLeT** MATLAB graphical user interface (GUI) allows users to trigger and manage the cameras and LEDs driven by an Arduino microcontroller with a custom shield. Within **CaPuLeT**, users can track locomotion, pupil-size, and *in vivo* calcium imaging data in real-time. 
 
 **Behavioral and Imaging Data Collected**:
 - IR Camera → Pupil Dynamics (Dilation and Constriction)
