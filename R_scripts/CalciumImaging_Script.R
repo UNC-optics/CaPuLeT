@@ -69,6 +69,7 @@ dpalramp <-colorRampPalette(brewer.pal(9,"Blues"))(256)
 
 #Step 9. Plot out heatmap using ggplot library
 nheat<-ggplot(neu.wide, aes(x=Var2, y=Var1, fill=value))+ geom_tile() + scale_fill_gradientn(colours = dpalramp, limits=col.ranged, breaks=col.ranged, na.value=NA) +
+  scale_x_discrete(breaks = seq(0, 120, 20))+
   labs(title="Neural_heatmap_2P_example_data", x= "time(s)", y="Neuron", subtitle="n=78")
 
 
