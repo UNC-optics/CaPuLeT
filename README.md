@@ -779,6 +779,6 @@ Further information and requests for resources should be directed to and will be
 
 # Citation 
 
-If you replicate this system in your own labs or use parts of our designs and code, we kindly ask that you please cite [Ortiz-Juza et al, 2024](https://star-protocols.cell.com/protocols/3752). 
+If you replicate this system in your own labs or use parts of our designs and code, we kindly ask that you please cite [Ortiz-Juza et al, 2024](https://star-protocols.cell.com/protocols/3752) [1]. 
 
 [1] Ortiz-Juza, M. M., Tormes-Vaquerano, J., Hegel, S. M., Curtis, V. R., Alghorazi, R. A., Miller, N. W., McTaggart, E. M., Pégard, N. C., & Rodriguez-Romaguera, J. (2024). Protocol for an open-source system to integrate calcium imaging, pupillometry, and locomotion-estimated tracking in head-fixed mice. STAR Protocols, 5(4), 103331. https://doi.org/10.1016/j.xpro.2024.103331
