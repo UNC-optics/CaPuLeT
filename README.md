@@ -1,6 +1,6 @@
 # An open-source system to integrate Calcium-imaging, Pupillometry, and Locomotion-estimated Tracking (CaPuLeT) in head-fixed mice
 
-Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **CaPuLeT** allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infrared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attached to a mounted rotary encoder.
+Designed by members of the [Pégard](https://www.nicolaspegard.com/) and [Rodríguez-Romaguera](https://www.rodriguezromagueralab.org/) Labs at the University of North Carolina at Chapel Hill, **CaPuLeT** allows researchers to capture locomotion, pupil dynamics, and body kinematics simultaneously. Our system relies on CMOS cameras, an infrared camera placed at eye-level to capture pupil size and an additional camera to record body kinematics. Our system is capable of capturing  locomotion, or the mouse's movement across time, as our wheel system is attached to a mounted rotary encoder. For more information, refer to [Ortiz-Juza et al, 2024](https://star-protocols.cell.com/protocols/3752) [1].
 
 ![](https://github.com/UNC-optics/CaPuLeT/blob/8fb374c480b7fa6956df12115a91ab87b8dd7ab5/CaPuLeT_system_rendering.png)
 
@@ -779,6 +779,6 @@ Further information and requests for resources should be directed to and will be
 
 # Citation 
 
-[1]
+If you replicate this system in your own labs or use parts of our designs and code, we kindly ask that you please cite [Ortiz-Juza et al, 2024](https://star-protocols.cell.com/protocols/3752). 
 
-
+[1] Ortiz-Juza, M. M., Tormes-Vaquerano, J., Hegel, S. M., Curtis, V. R., Alghorazi, R. A., Miller, N. W., McTaggart, E. M., Pégard, N. C., & Rodriguez-Romaguera, J. (2024). Protocol for an open-source system to integrate calcium imaging, pupillometry, and locomotion-estimated tracking in head-fixed mice. STAR Protocols, 5(4), 103331. https://doi.org/10.1016/j.xpro.2024.103331
